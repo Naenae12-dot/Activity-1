@@ -57,9 +57,9 @@
     </audio><div class="letter closed" id="letter">
     <p>Open Me! Just click the little <span class="heart" onclick="openLetter()">❤</span></p>
     <div class="content hidden">
-        <p>Dear You,</p>
-        <p>Hi love! I miss you so much and I love you.</p>
-        <p>Love, [Your Name]</p>
+        <p>Hi love!</p>
+        <p>I miss you so much and I love you.</p>
+        <p>from nea</p>
         <p>Do you want to reply?</p>
         <div class="buttons">
             <button onclick="reply()">Yes</button>
